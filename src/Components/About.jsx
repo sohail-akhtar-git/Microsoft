@@ -24,19 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+"My passion for software development and application programming interfaces drives me to pursue a Bachelor of Engineering degree in Computer Science and Engineering at Erode Sengunthar Engineering College, where I am expected to graduate in 2025. I have acquired multiple Microsoft certifications in Power Apps, Dataverse, and Teams, demonstrating my proficiency and enthusiasm for creating apps, chatbots, flows, and more with these platforms.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Material UI",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Android Development",
+  "Java",
+  "Azure",
+  "React",
 ];
 
 /**
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my problem solving skills and software development skills, I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
