@@ -1,7 +1,7 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "@sohail-akhtar/microsoft",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Sohail Akhtar",
   "source": "src/index.html",
   "homepage": "https://sohail-akhtar-git.github.io/Microsoft",
   "scripts": {
